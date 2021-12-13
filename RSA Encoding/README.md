@@ -14,19 +14,19 @@ Keygen\
 -i confidence  Miller-Rabin iterations for testing primes (default: 50)\
 -n pbfile     Public key file (default: rsa.pub).\
 -d pvfile      Private key file (default: rsa.priv).\
--s seed        Random seed for testing.\
+-s seed        Random seed for testing.
 
 Encrypt\
 -h             Display program help and usage.\
 -v             Display verbose program output.\
 -i infile      Input file of data to encrypt (default: stdin).\
 -o outfile     Output file for encrypted data (default: stdout).\
--n pbfile      Public key file (default: rsa.pub).\
+-n pbfile      Public key file (default: rsa.pub).
 
 Decrypt\
 -h             Display program help and usage.\
 -v             Display verbose program output.\
 -i infile      Input file of data to decrypt (default: stdin).\
 -o outfile     Output file for decrypted data (default: stdout).\
--n pvfile      Private key file (default: rsa.priv).\
+-n pvfile      Private key file (default: rsa.priv).
 
