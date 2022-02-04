@@ -1,5 +1,3 @@
-## Assignment 6: Public Key Cryptography
-
 ### Functionality
 The purpose of this program is to encrypt and decrypt a given file using the RSA algorithm. Any user can encrypt a file given a set of public keys, but only the holder of the private keys can decrypt them. This algorithm makes use of modular inverses, modular exponentiation, as well as probablistic test of primality.
 
